@@ -17,6 +17,7 @@
     "jsx": "react-jsx"
   },
   "include": [
+    "vite.config.ts",
     ".eslintrc.cjs",
     "src"
   ],
