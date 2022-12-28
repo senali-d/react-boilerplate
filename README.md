@@ -1,5 +1,5 @@
-# react-boilerplate
-Reactjs boilerplate (Reactjs+Tailwind css+Vite+Typescript
+# React Boilerplate
+Reactjs boilerplate (Reactjs+Tailwind css+Vite+Typescript)
 
 ## Getting Start
 
@@ -17,7 +17,7 @@ yarn
 ```
 After that, run the command yarn start to view the app in your browser.
 ```
-yarn start
+yarn dev
 ```
 Open http://localhost:5173 to view it in your browser.
 
